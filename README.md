@@ -174,7 +174,7 @@ pragma to work-around it.
 Using empty string on `use` line and specifying config file's name to each
 routine does not trigger this bug.
 
-----
+-----
 
 #### REPOSITORY
 
