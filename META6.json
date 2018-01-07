@@ -2,7 +2,7 @@
     "perl"         : "6.c",
     "name"         : "Config::JSON",
     "license"      : "Artistic-2.0",
-    "version"      : "1.001002",
+    "version"      : "1.001003",
     "description"  : "Flat, JSON-backed read-write configuration",
     "tags"         : [ "config", "configuration", "JSON" ],
     "depends"      : [
@@ -19,6 +19,6 @@
     },
     "authors"       : ["Zoffix Znet"],
     "support"       : {
-        "source" : "https://github.com/zoffixznet/perl6-Config-JSON"
+        "source" : "https://github.com/zoffixznet/perl6-Config-JSON.git"
     }
 }
