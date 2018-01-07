@@ -4,6 +4,27 @@
 
 Config::JSON - flat, JSON-backed read-write configuration
 
+# TABLE OF CONTENTS
+- [SYNOPSIS](#synopsis)
+- [DESCRIPTION](#description)
+- [SINGLE CONFIG FILE MODE](#single-config-file-mode)
+    - [EXPORTED SUBROUTINES](#exported-subroutines)
+        - [`jconf`](#jconf)
+        - [`jconf-write`](#jconf-write)
+- [PER-CALL CONFIG FILE MODE](#per-call-config-file-mode)
+- [EXPORTED SUBROUTINES](#exported-subroutines-1)
+        - [`jconf`](#jconf-1)
+        - [`jconf-write`](#jconf-write-1)
+- [EXCEPTIONS](#exceptions)
+    - [`Config::JSON::X::NoSuchKey`](#configjsonxnosuchkey)
+    - [`Config::JSON::X::Open`](#configjsonxopen)
+- [MULTI-THREAD/PROCESS SAFETY](#multi-threadprocess-safety)
+- [CAVEATS](#caveats)
+- [REPOSITORY](#repository)
+- [BUGS](#bugs)
+- [AUTHOR](#author)
+- [LICENSE](#license)
+
 # SYNOPSIS
 
 ```perl6
