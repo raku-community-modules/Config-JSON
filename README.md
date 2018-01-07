@@ -12,7 +12,7 @@ Config::JSON - flat, JSON-backed read-write configuration
         - [`jconf`](#jconf)
         - [`jconf-write`](#jconf-write)
 - [PER-CALL CONFIG FILE MODE](#per-call-config-file-mode)
-- [EXPORTED SUBROUTINES](#exported-subroutines-1)
+    - [EXPORTED SUBROUTINES](#exported-subroutines-1)
         - [`jconf`](#jconf-1)
         - [`jconf-write`](#jconf-write-1)
 - [EXCEPTIONS](#exceptions)
@@ -114,7 +114,7 @@ with `Config::JSON::X::Open` exception.
                           # of config read/write routines instead
 ```
 
-# EXPORTED SUBROUTINES
+## EXPORTED SUBROUTINES
 
 Note that these are **not** available in single-config-file mode.
 
