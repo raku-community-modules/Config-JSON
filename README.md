@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/pero6-community-modules/perl6-Config-JSON.svg)](https://travis-ci.com/perl6-community-modules/perl6-Config-JSON)
+[![Build Status](https://travis-ci.org/pero6-community-modules/perl6-Config-JSON.svg)](https://travis-ci.org/perl6-community-modules/perl6-Config-JSON)
 
 # NAME
 
