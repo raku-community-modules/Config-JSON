@@ -19,6 +19,6 @@
     },
     "authors"       : ["Zoffix Znet"],
     "support"       : {
-        "source" : "https://github.com/zoffixznet/perl6-Config-JSON.git"
+        "source" : "https://github.com/raku-community-modules/Config-JSON.git"
     }
 }
