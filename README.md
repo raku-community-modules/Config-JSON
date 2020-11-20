@@ -179,12 +179,12 @@ routine does not trigger this bug.
 #### REPOSITORY
 
 Fork this module on GitHub:
-https://github.com/zoffixznet/perl6-Benchy
+https://github.com/raku-community-modules/Config-JSON
 
 #### BUGS
 
 To report bugs or request features, please use
-https://github.com/zoffixznet/perl6-Benchy/issues
+https://github.com/raku-community-modules/Config-JSON/issues
 
 #### AUTHOR
 
